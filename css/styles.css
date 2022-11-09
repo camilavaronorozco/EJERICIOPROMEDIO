@@ -1,0 +1,59 @@
+.div{
+    float: left;
+}
+
+.p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 59px;
+    color: rgb(102, 7, 97) ;
+}
+.imagen{
+    margin-top: -200px;
+    float: left;
+width: 190px;
+height:250x;
+}
+.boton1{
+    border-radius: 50px;
+}
+.boton2{
+    border-radius: 50px;
+}
+.boton3{
+    border-radius: 50px;
+}
+.boton4{
+    border-radius: 50px;
+}
+.nota1{
+    
+    text-align: right;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nota2{
+    text-align: right;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nota3{
+    text-align: right;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.PROMEDIO{
+    text-align: right;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-avg{
+    border: none;
+    background-color: rgb(17, 76, 17);
+    color: white;
+    padding: 5px;
+}
+
+.btn-avg:focus{
+    outline: none;
+}
